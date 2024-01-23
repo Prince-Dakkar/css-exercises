@@ -1,0 +1,14 @@
+/* style.css */
+/* Dakkar; 1.22.24 */
+
+
+
+/* a red background, white text, a font size of 32px, center aligned, and bold */
+div {
+    color: white;
+    font-weight: bold;
+    font-size: 32px;
+    background-color: red;
+    text-align: center;
+  }
+
